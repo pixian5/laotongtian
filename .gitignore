@@ -24,3 +24,14 @@ desktop.ini
 
 # 本地安全工具数据，不入库
 .freebuff/
+node_modules/
+__pycache__/
+*.pyc
+.venv/
+venv/
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+.coverage
+htmlcov/
+*.egg-info/
